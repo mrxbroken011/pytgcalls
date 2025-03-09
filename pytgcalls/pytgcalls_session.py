@@ -21,7 +21,7 @@ class PyTgCallsSession:
             print(
                 f'PyTgCalls v{__version__} powered by '
                 f'NTgCalls v{ntgcalls.__version__}, Copyright (C) '
-                f'2021-{year} Laky-64 <https://github.com/Laky-64>\n'
+                f'2021-{year} Mr Broken <https://github.com/mrxbroken011>\n'
                 'Licensed under the terms of the GNU Lesser '
                 'General Public License v3 or later (LGPLv3+)\n',
             )
