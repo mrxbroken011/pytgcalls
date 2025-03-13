@@ -40,7 +40,7 @@ hydrogram = ["hydrogram>=0.1.4"]
 
 [project.urls]
 Homepage = "https://pytgcalls.github.io/"
-Repository = "https://github.com/pytgcalls/pytgcalls.git"
+Repository = "https://github.com/mrxbroken011/pytgcalls.git"
 Documentation = "https://pytgcalls.github.io/PyTgCalls"
 Changelog = "https://pytgcalls.github.io/PyTgCalls/Changelogs"
 
